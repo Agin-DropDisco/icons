@@ -1,3 +1,3 @@
-# SushiSwap Icons
+# DexSwap Crypto Icons
 
 ...
